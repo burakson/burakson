@@ -1,3 +1,5 @@
-<div align="center">
-	<img src="https://github.com/burakson/burakson/raw/master/jtravolta-lost.gif">
-</div>
+## Burak Son
+
+I am a product focused techie who likes to build teams that create high quality digital products.
+
+Currently, I'm helping out companies as a consultant/freelancer.
